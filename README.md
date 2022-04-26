@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ayoub Chawki</h1>
 <h3 align="center">A passionate software engineer from Morocco</h3>
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="270"/>
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="130"/>
 </div>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
